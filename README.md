@@ -1,1 +1,1 @@
-Odin Loading Page
+Odin Project: Landing Page
